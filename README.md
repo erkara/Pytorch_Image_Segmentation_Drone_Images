@@ -1,6 +1,6 @@
 # Pytorch_Image_Segmentation_Drone_Images
 
-1. I would like to present an image segmentation application on drone images dataset on [here]((https://www.tugraz.at/index.php?id=22387)). Dataset contains 600 drone images acquired 
+1. I would like to present an image segmentation application on drone images dataset on [here](https://www.tugraz.at/index.php?id=22387). Dataset contains 600 drone images acquired 
 at an altitude of 5 to 30 meters above ground with masks concerning 23 classes. RGB masks are also provides. 
 2. Task is to train an algorirtm to accurately predict the segmentation of each classes. I would like to present two different models here;
 3. Part1: I trained Unet, which is probably the most well-known arhitecture, from scratch. Have a look at the original paper [here](https://arxiv.org/abs/1505.04597).
